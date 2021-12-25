@@ -19,6 +19,6 @@ while running:
             running = False
 
 # rgb- red ,green ,blue
-    screen.fill((0, 255, 255))
+    screen.fill((0, 0, 0))
 #  updating screen
     pygame.display.update()
